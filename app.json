@@ -1,7 +1,7 @@
 {
   "name": "TRTMP",
   "description": "Go live easily and stream videos in Telegram channels.",
-  "repository": "https://github.com/kilani17/trtmp?organization=kilani17&organization=kilani17",
+  "repository": "https://github.com/kilani17/trtmp",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot’s token obtained from @BotFather.",
