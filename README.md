@@ -6,7 +6,7 @@ A bot for streaming in Telegram live streams.
 
 ### Use a Cloud Platform
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deply?template=https://github.com/kilani17/trtmp?organization=kilani17)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deply?template=https://github.com/kilani17/trtmp)
 
 ### Manually
 
